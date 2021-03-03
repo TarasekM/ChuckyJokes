@@ -1,4 +1,4 @@
-package com.example.ChuckyJokes;
+package pl.codeconcept.ChuckyJokes;
 
 import io.flutter.app.FlutterApplication;
 import io.flutter.plugin.common.PluginRegistry;

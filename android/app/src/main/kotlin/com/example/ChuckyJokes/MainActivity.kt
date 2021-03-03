@@ -1,4 +1,4 @@
-package com.example.ChuckyJokes
+package pl.codeconcept.ChuckyJokes
 
 import io.flutter.embedding.android.FlutterActivity
 
