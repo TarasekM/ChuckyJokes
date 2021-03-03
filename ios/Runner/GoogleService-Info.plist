@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>33270857688-ac26uldd9tqmuc4gfsj6j4lo262q4tp7.apps.googleusercontent.com</string>
+	<string>33270857688-f99g7sh5pa0kd3a6d32sc7v8v9hshc4u.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.33270857688-ac26uldd9tqmuc4gfsj6j4lo262q4tp7</string>
+	<string>com.googleusercontent.apps.33270857688-f99g7sh5pa0kd3a6d32sc7v8v9hshc4u</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBPeMj6w3qaGNdlX2ZmY-x7_0mq_vE7enM</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.ChuckyJokes</string>
+	<string>pl.codeconcept.ChuckyJokes</string>
 	<key>PROJECT_ID</key>
 	<string>chuckyjokes</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:33270857688:ios:8f597e068199afb1cc3cad</string>
+	<string>1:33270857688:ios:559c1983dc05c28ecc3cad</string>
 </dict>
 </plist>

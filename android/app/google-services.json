@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:33270857688:android:cfe31f432073f40ecc3cad",
+        "mobilesdk_app_id": "1:33270857688:android:d5945dded3cb0b87cc3cad",
         "android_client_info": {
-          "package_name": "com.example.ChuckyJokes"
+          "package_name": "pl.codeconcept.ChuckyJokes"
         }
       },
       "oauth_client": [
@@ -29,6 +29,13 @@
             {
               "client_id": "33270857688-5g4a8rbukrf5itloqgnj7pe6dhui25pp.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "33270857688-ac26uldd9tqmuc4gfsj6j4lo262q4tp7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ChuckyJokes"
+              }
             }
           ]
         }
